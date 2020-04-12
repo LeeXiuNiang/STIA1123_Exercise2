@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class CountA {
+public class Q2_CountA {
 
     public static void main(String[] args) {
         //Q2
