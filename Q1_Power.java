@@ -1,4 +1,4 @@
-public class Power {
+public class Q1_Power {
 
    public static void main(String[] args) {
 	 //Q1
