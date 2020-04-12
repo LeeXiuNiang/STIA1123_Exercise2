@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.util.concurrent.ThreadLocalRandom;
 
-public class RandomInRange {
+public class Q4_RandomInRange {
 
     public static void main(String[] args) {
         //Q4
