@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class PrintReverse {
+public class Q3_PrintReverse {
 
     public static void main(String[] args) {
         //Q3
